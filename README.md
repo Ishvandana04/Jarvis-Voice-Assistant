@@ -21,5 +21,5 @@ A simple **voice-controlled AI assistant** built in Python that can perform basi
 
 ---
 
-## 📂 Project Structure
+
 
